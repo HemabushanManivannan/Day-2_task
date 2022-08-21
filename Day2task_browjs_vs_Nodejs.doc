@@ -1,0 +1,9 @@
+Node JS 
+-It is a stripped down version of Browser JS. which does code in the backend
+-will be saved as .js format but runs in another compiler
+-code is done seperately and compiled seperately
+
+Browser JS
+-It runs the code with V8 engine which is been developed by Chrome for rendering.
+-It runs the code in the browser window
+-It is sandboxed together
