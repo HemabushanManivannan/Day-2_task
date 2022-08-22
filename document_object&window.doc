@@ -1,0 +1,9 @@
+Document Object
+ DOM is called as Document object model
+ where it contains all tags of HTML which has JS to functionalise in HTML
+ It has many tags like body,head,paragraph,button,script tags
+
+Window Object model
+ Window object model has frames tag 
+ which describes what function has to be done in HTML
+ there are many type of functions like error(),clear() which all comes in script tag.   
